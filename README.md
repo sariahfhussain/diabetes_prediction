@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Diabetes Prediction Project</title>
+
 </head>
 <body>
     <h1>Diabetes Prediction Project</h1>
@@ -73,8 +73,6 @@
         <li>Open a web browser and go to <code>http://127.0.0.1:5000</code> to access the application.</li>
     </ol>
     
-<h2>License</h2>
-    <p>This project is licensed under the MIT License.</p>
 </body>
 </html>
 
